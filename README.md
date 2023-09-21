@@ -2,4 +2,4 @@
 Data and code for my Medium post Understanding SQL: Getting Started with Window Functions.
 Article available here: <url>
 
-Data sourced from Wikipedia
+FIFA World Cup placings and statistics sourced from Wikipedia.
