@@ -4,5 +4,5 @@ Article available here: https://medium.com/towards-data-science/understanding-sq
 
 FIFA World Cup placings and statistics were sourced from Wikipedia and is made availbale under the Creative Commons Attribution Share-Alike license (CC-BY-SA). 
 
-The data and related and related information can be found here: https://en.wikipedia.org/wiki/FIFA_World_Cup
+The data and related information can be found here: https://en.wikipedia.org/wiki/FIFA_World_Cup
 
